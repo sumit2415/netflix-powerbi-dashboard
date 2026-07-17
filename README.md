@@ -41,18 +41,8 @@ The dashboard provides meaningful business insights through interactive visualiz
 
 ## 🖼️ Dashboard Preview
 
-> Replace the image name below with your actual screenshot name if you don't rename it.
-
 ```md
-![Dashboard](Dashboard.png)
-```
-
-If you keep the current file name:
-
-```md
-![Dashboard](IMG-20260704-WA0004.jpg)
-```
-
+Dashboard.png
 ---
 
 ## 📊 Dashboard Features
